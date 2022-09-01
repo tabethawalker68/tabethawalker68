@@ -1,6 +1,6 @@
 #### Hi 👋, I'm Tabetha Walker
 ##### **Microsoft Dynamic 365 & Power Apps Developer**
-[![](https://visitcount.itsvg.in/api?id=tabethawalker68&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tabethawalker68&icon=0&color=9)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on **Microsoft Dynamic 365 & Power Apps Developer**
 
 
